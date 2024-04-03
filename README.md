@@ -1,5 +1,4 @@
 # DGRED
 datos de prueba
-
-.. image:: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvvQTpNuEtFkm_Daed14DVstOXuXmAfxJ4MJEp-e9ctQ&s
-        :target: https://download.qgis.org/downloads/
+.. image:: https://joss.theoj.org/papers/10.21105/joss.02305/status.svg
+        :target: https://joss.theoj.org/papers/10.21105/joss.02305
